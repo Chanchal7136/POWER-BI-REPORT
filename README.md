@@ -1,8 +1,8 @@
-# POWER-BI-REPORT
-SuperStore Sales Dashboard 
-An interactive Power BI dashboard built to analyze Superstore sales performance, profit trends, and business insights using real-world retail data.
+## POWER-BI-REPORT
+### SuperStore Sales Dashboard 
+#### An interactive Power BI dashboard built to analyze Superstore sales performance, profit trends, and business insights using real-world retail data.
 
-Project Summary
+##Project Summary
 This project focuses on transforming raw Superstore sales data into a dynamic and insightful Power BI dashboard.
 The dashboard enables users to explore sales, profit, and growth trends across categories, regions, and time periods to support data-driven decision-making.
 Business Objectives
@@ -15,7 +15,7 @@ Identify top-performing and underperforming categories
 
 Understand regional and customer-wise sales behavior
 
-🛠 Tech Stack
+##Tech Stack
 
 Power BI Desktop
 
@@ -25,7 +25,7 @@ Power Query (Data Cleaning & Transformation)
 
 MS Excel (Data Source)
 
-✨ Key Dashboard Features
+##Key Dashboard Features
 
 Interactive slicers for Category, Region, and Date
 
@@ -37,14 +37,14 @@ KPI cards for Sales, Profit, and Quantity
 
 Clean and business-focused visual design
 
-📊 Key Insights Generated
+##Key Insights Generated
 
 Identified top-selling product categories and high-profit regions
 
 Highlighted loss-making products impacting overall profit
 
 
-How to Run the Project
+##How to Run the Project
 
 Download the .pbix file from this repository
 
@@ -52,7 +52,7 @@ Open it using Power BI Desktop
 
 Use slicers and filters to explore insights interactively
 
-📌 What I Learned
+##What I Learned
 
 Writing efficient DAX measures for business KPIs
 
@@ -62,7 +62,7 @@ Converting raw data into actionable insights
 
 Applying data visualization best practices
 
-📬 Contact
+##Contact
 
 Chanchal Vijay Bhangale
 📧 Email: add-your-email
