@@ -3,71 +3,64 @@
 #### An interactive Power BI dashboard built to analyze Superstore sales performance, profit trends, and business insights using real-world retail data.
 
 ## Project Summary
-This project focuses on transforming raw Superstore sales data into a dynamic and insightful Power BI dashboard.
+#### This project focuses on transforming raw Superstore sales data into a dynamic and insightful Power BI dashboard.
 The dashboard enables users to explore sales, profit, and growth trends across categories, regions, and time periods to support data-driven decision-making.
-Business Objectives
+### Business Objectives
 
-Track overall sales and profit performance
+#### Track overall sales and profit performance
 
-Analyze Year-over-Year (YoY) growth trends
+#### Analyze Year-over-Year (YoY) growth trends
 
-Identify top-performing and underperforming categories
+#### Identify top-performing and underperforming categories
 
-Understand regional and customer-wise sales behavior
+#### Understand regional and customer-wise sales behavior
 
-##Tech Stack
+### Tech Stack
 
-Power BI Desktop
+#### Power BI Desktop
 
-DAX (Measures & Calculations)
+#### DAX (Measures & Calculations)
 
-Power Query (Data Cleaning & Transformation)
+#### Power Query (Data Cleaning & Transformation)
 
-MS Excel (Data Source)
+#### MS Excel (Data Source)
 
-##Key Dashboard Features
+### Key Dashboard Features
 
-Interactive slicers for Category, Region, and Date
+#### Interactive slicers for Category, Region, and Date
 
-YoY sales and profit analysis using DAX
+#### YoY sales and profit analysis using DAX
 
-Drill-through pages for detailed product insights
+#### Drill-through pages for detailed product insights
 
-KPI cards for Sales, Profit, and Quantity
+#### KPI cards for Sales, Profit, and Quantity
 
-Clean and business-focused visual design
+#### Clean and business-focused visual design
 
-##Key Insights Generated
+### Key Insights Generated
 
-Identified top-selling product categories and high-profit regions
+#### Identified top-selling product categories and high-profit regions
 
-Highlighted loss-making products impacting overall profit
+#### Highlighted loss-making products impacting overall profit
 
 
-##How to Run the Project
+### How to Run the Project
 
-Download the .pbix file from this repository
+#### Download the .pbix file from this repository
 
-Open it using Power BI Desktop
+#### Open it using Power BI Desktop
 
-Use slicers and filters to explore insights interactively
+#### Use slicers and filters to explore insights interactively
 
-##What I Learned
+### What I Learned
 
-Writing efficient DAX measures for business KPIs
+#### Writing efficient DAX measures for business KPIs
 
-Designing interactive dashboards with drill-through
+#### Designing interactive dashboards with drill-through
 
-Converting raw data into actionable insights
+#### Converting raw data into actionable insights
 
-Applying data visualization best practices
+#### Applying data visualization best practices
 
-##Contact
-
-Chanchal Vijay Bhangale
-📧 Email: add-your-email
-🔗 GitHub: your-profile-link
-🔗 LinkedIn: your-linkedin-link
-Observed seasonal sales trends and YoY performance variations
 
 Enabled quick comparison between Electronics and Furniture categories
