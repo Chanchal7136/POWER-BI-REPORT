@@ -7,7 +7,7 @@
 **** The dashboard enables users to explore sales, profit, and growth trends across categories, regions, and time periods to support data-driven decision-making.
 ### Business Objectives
 
-**** Track overall sales and profit performance
+****Track overall sales and profit performance
 
 **** Analyze Year-over-Year (YoY) growth trends
 
