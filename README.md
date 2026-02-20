@@ -123,9 +123,8 @@ Bachelor of Technology — Computer Science & Engineering
 
 ## Contact
 
-- 🔗 LinkedIn: *(Add your LinkedIn profile link)*
-- 💻 GitHub: https://github.com/Chanchal7136
-
+- 🔗 LinkedIn: *(https://www.linkedin.com/in/chanchal-bhangale-623812322/)*
+- Email: chanchalbhangale83@gmail.com
 ---
 
 ## Project Purpose
